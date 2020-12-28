@@ -1,5 +1,5 @@
 {
-    "name": "bao0558/yii2-,myguzzle",
+    "name": "bao0558/yii2-myguzzle",
     "description": "Guzzle based on Guzzlehttp",
 	"type": "yii2-extension",
 	"keywords": ["yii2", "yii 2", "guzzle"],

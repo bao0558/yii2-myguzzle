@@ -1,6 +1,6 @@
 <?php
 
-namespace bao0558\guzzle;
+namespace bao0558\myguzzle;
 
 use GuzzleHttp\Pool;
 use GuzzleHttp\Client;
