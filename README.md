@@ -3,7 +3,7 @@
 ![](https://travis-ci.org/bao0558/yii2-myguzzle.svg)
 
 This extension provides the [GUZZLE](https://github.com/guzzle/guzzle) integration for the [Yii framework 2.0](http://www.yiiframework.com) (requires PHP 5.6+).
-It includes basic HTTP authentication support.
+It includes basic HTTP request support.
 
 ## Table of contents
 
