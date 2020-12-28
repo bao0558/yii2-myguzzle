@@ -1,0 +1,30 @@
+{
+    "name": "bao0558/yii2-,myguzzle",
+    "description": "Guzzle based on Guzzlehttp",
+	"type": "yii2-extension",
+	"keywords": ["yii2", "yii 2", "guzzle"],
+	"authors": [
+        {
+            "name": "Baozi",
+            "email": "768588658@qq.com",
+            "homepage": "https://github.com/bao0558"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle": "~6.0.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bao0558\\guzzle\\": ""
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]    
+}
