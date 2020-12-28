@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bao0558\\guzzle\\": ""
+            "bao0558\\myguzzle\\": ""
         }
     },
     "repositories": [
